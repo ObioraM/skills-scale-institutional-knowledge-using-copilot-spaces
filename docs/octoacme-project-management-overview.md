@@ -20,6 +20,14 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Additional Supporting Roles
+The following roles extend the core team on larger or more complex projects. Full descriptions, responsibilities, and interaction touchpoints are defined in [Roles & Personas](octoacme-roles-and-personas.md).
+
+- **Release Manager**: owns the release schedule, coordinates cross-functional readiness, and drives the go/no-go decision.
+- **QA Lead**: defines test strategy, coordinates test execution, and provides formal QA sign-off before releases.
+- **Technical Writer**: maintains user-facing and process documentation and ensures shipped features are documented.
+- **Business Analyst**: translates business goals into clear requirements and acceptance criteria for the delivery team.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
